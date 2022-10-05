@@ -6,4 +6,4 @@ Hi there 👋
 - 📫 How to reach me: ranaalirizwantariq@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Mentalist
-- 📮 My NewsLetter: https://frozen-everglades-97319.herokuapp.com/
+- 📮 My NewsLetter: https://art-newsletter.herokuapp.com/
