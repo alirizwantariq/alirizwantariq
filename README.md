@@ -26,4 +26,4 @@ I bridge the gap between complex Machine Learning models and robust web ecosyste
 
 ---
 
-[GitHub Views](https://komarev.com/ghpvc/?username=alirizwantariq)
+![GitHub Views](https://komarev.com/ghpvc/?username=alirizwantariq)
