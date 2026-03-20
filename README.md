@@ -25,3 +25,5 @@ I bridge the gap between complex Machine Learning models and robust web ecosyste
 `Python` `JavaScript` `NestJS` `PyTorch` `YOLO` `OpenCV` `RESTful APIs` `Edge Computing`
 
 ---
+
+[GitHub Views](https://komarev.com/ghpvc/?username=alirizwantariq)
