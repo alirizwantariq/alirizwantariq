@@ -55,14 +55,17 @@ Currently at **FAMS by Falkenherz** 🇦🇪, turning raw telematics into decisi
 4. **🕳️ Closed a camera stream injection hole in a live KYC pipeline** — Found the media-spoofing path by auditing as an attacker would, patched pre-production. *→ −70% vulnerabilities.*
 5. **📜 Regulation → software people can operate** — Enterprise KYB/AML platforms; merged overlapping frontend/backend into shared modules; led the frontend team.
 
-### 📦 Some open-source repos
+### 📦 Selected open-source repos
 
-<a href="https://github.com/alirizwantariq/PDF-Editor-OCR">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alirizwantariq&repo=PDF-Editor-OCR&theme=tokyonight" />
-</a>
-<a href="https://github.com/alirizwantariq/grab-watch-download">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=alirizwantariq&repo=grab-watch-download&theme=tokyonight" />
-</a>
+<!-- Note: repo cards are hand-built badges, so they never go down like the shared stats services -->
+
+| 📄 [**PDF-Editor-OCR**](https://github.com/alirizwantariq/PDF-Editor-OCR) | 📥 [**grab-watch-download**](https://github.com/alirizwantariq/grab-watch-download) |
+|:---|:---|
+| Edit PDFs with OCR — character & font recognition | Media grabber / downloader tool |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54&style=flat-square) |
+| 🩺 [**techcare**](https://github.com/alirizwantariq/techcare) | 📰 [**news-api-aggregator**](https://github.com/alirizwantariq/News_Api) |
+| UI for a patient management system | News aggregation API service |
+| ![UI](https://img.shields.io/badge/-Healthcare_UI_Vue.js-4FC08D?style=flat-square) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
 
 ---
 
@@ -108,17 +111,22 @@ Currently at **FAMS by Falkenherz** 🇦🇪, turning raw telematics into decisi
 
 ## 📊 GitHub Stats & Streaks
 
+<!-- Stat cards are committed as SVG files in this repo (profile-summary-card-output/),
+     refreshed weekly by .github/workflows/summary-cards.yml — immune to the rate
+     limits that break the shared github-readme-stats service. -->
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alirizwantariq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirizwantariq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile-summary-card-output/tokyonight/profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/stats.svg" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/tokyonight/most-commit-language.svg" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/tokyonight/productive-time.svg" alt="Productive Time" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alirizwantariq&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirizwantariq&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 <div align="center">
